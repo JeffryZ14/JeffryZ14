@@ -1,6 +1,6 @@
 # Jeffry's GitHub Profile
 
-<div style="text-align: center;">
+<div id="header" align="center">
      <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="200"/>
 </div>
 
