@@ -1,7 +1,7 @@
 # Jeffry's GitHub Profile
 
 <div style="text-align: center;">
-    <iframe src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" width="280" height="280" frameborder="0" class="giphy-embed"></iframe>
+     <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif" width="200"/>
 </div>
 
 ## About Me
