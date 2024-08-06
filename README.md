@@ -1,16 +1,32 @@
 # Jeffry's GitHub Profile
 
+<div style="text-align: center;">
+    <iframe src="https://giphy.com/embed/ua7vVw9awZKWwLSYpW" width="280" height="280" frameborder="0" class="giphy-embed"></iframe>
+</div>
+
 ## About Me
 
 Hi, I'm Jeffry Zavala from Lima, Peru. I'm a 25-year-old full-stack developer with a passion for coding and creating impactful solutions.
 
 ## Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, NestJS
-- **Mobile Development**: Kotlin, Jetpack Compose
-- **Database**: MySQL, PostgreSQL, MongoDB,SQL Server
-- **Others**: TypeScript, Python, Docker, Git
+<div id="badges">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="DART">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="KOTLIN">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="REACT">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NESTJS">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRES">
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="FIREBASE">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
+    
+  
+</div>
 
 ## Projects
 
